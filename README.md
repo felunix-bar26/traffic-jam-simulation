@@ -12,6 +12,8 @@ The reaction time represents the delay between a change in the traffic situation
 
 The simulation is intended to demonstrate how different traffic conditions can influence the formation of traffic jams. By changing the number of cars, the desired speed, and the spawn time, you can experiment with different traffic situations and observe how the traffic flow changes.
 
+<img width="1503" height="952" alt="Screenshot From 2026-08-12 20-03-40" src="https://github.com/user-attachments/assets/62a828f6-8377-46f3-a1d0-39632c0ca1cc" />
+
 ## Installation
 
 ### Clone this repository
